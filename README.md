@@ -1,8 +1,8 @@
-\# Blood Donor Finder
+Blood Donor Finder - Easy Blood Donation
 
 
 
-Blood Donor Finder is a software engineering project that helps users find suitable blood donors based on blood group and location.
+Blood Donor Finder - Easy Blood Donation is a software engineering project that helps users find suitable blood donors based on blood group and location.
 
 
 
