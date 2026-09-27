@@ -46,3 +46,11 @@ The Blood Donor Finder project is currently under development.
 
 Users can search for blood donors based on blood group and location.
 
+
+
+\## Blood Group Filter Improvement
+
+
+
+The donor search feature now supports filtering donors based on blood group.
+
