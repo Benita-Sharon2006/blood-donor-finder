@@ -22,3 +22,13 @@ Blood Donor Finder is a software engineering project that helps users find suita
 
 \- Donation history
 
+\## Future Improvements
+
+
+
+\- Add donor location-based search
+
+\- Add emergency blood request notifications
+
+\- Add improved donor availability tracking
+
