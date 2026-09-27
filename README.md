@@ -32,3 +32,6 @@ Blood Donor Finder is a software engineering project that helps users find suita
 
 \- Add improved donor availability tracking
 
+## Project Status
+
+The Blood Donor Finder project is currently under development.
